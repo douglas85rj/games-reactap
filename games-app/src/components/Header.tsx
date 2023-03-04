@@ -6,7 +6,7 @@ export default function Header (){
         <header>
         <div>
             <img 
-            src="https://github.com/maykbrito.png" 
+            src="https://www.imagemhost.com.br/images/2023/03/04/19936447.jpg" 
             alt="Foto de Mayk Brito na frente de um laptop" />
         </div>
     </header>
